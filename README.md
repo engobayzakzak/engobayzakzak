@@ -30,6 +30,6 @@ Rather than building surface-level hobbyist prototypes, my projects emphasize:
 
 ### 📫 Let's Connect
 
-- **Inquiries & Collaborations:** Reach out via [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:obay.zakzak2@gmail.com)
+- **Inquiries & Collaborations:** Reach out via [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:m.obayzakzak@gmail.com)
  or connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](linkedin.com/in/mhd-obay-zakzak/).
 - **Comprehensive Whitepapers:** Detailed derivations, schematics, and benchmark logs are documented in the `Technical_Report.md` within each respective repository.
