@@ -21,10 +21,10 @@ Rather than building surface-level hobbyist prototypes, my projects emphasize:
 | :--- | :--- |
 | **Robotics & Simulation** | ROS 2 (Humble/Jazzy), MoveIt 2, Nav2, Gazebo Sim, SLAM Toolbox, URDF/Xacro, RViz2, Classic FK & IK Robotics Analysis, Trajectory Planning |
 | **Control & Dynamics** | MATLAB/Simulink, Simscape Multibody, LQR, MPC, Extended Kalman Filter (EKF), Continuous & Discrete PID |
-| **Embedded & Firmware** | Embedded C, C++, FreeRTOS, STM32 / ARM Cortex-M4, ESP32, SocketCAN / UART, Embedded Intelligence |
+| **Embedded & Firmware** | Embedded C, C++, FreeRTOS, STM32 / ARM Cortex-M4, ESP32, SocketCAN / UART, Embedded Intelligence, Digital Signal Processing (DSP) |
 | **Perception & Edge-AI** | OpenCV, cv_bridge, TinyML / TensorFlow Lite Micro, Spatial Point Projection |
 | **Industry 4.0 AI & Machine Learning** | DeepLearning with PyTorch, DeepLearning with Keras & TensorFlow, Neural Networks with Keras, Computer Vision & Image Processing |
-| **Hardware & Tooling** | SolidWorks CAD, AutoDesk Inventor CAD, Linux, Proteus, Schematic & Multi-layer PCB |
+| **Hardware & Tooling** | SolidWorks CAD, AutoDesk Inventor CAD, Linux, Proteus, Schematic & Multi-layer PCB, Docker |
 
 ---
 
