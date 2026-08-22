@@ -24,7 +24,7 @@ Rather than building surface-level hobbyist prototypes, my projects emphasize:
 | **Embedded & Firmware** | Embedded C, C++, FreeRTOS, STM32 / ARM Cortex-M4, ESP32, SocketCAN / UART, Embedded Intelligence, Digital Signal Processing (DSP) |
 | **Perception & Edge-AI** | OpenCV, cv_bridge, TinyML / TensorFlow Lite Micro, Spatial Point Projection |
 | **Industry 4.0 AI & Machine Learning** | DeepLearning with PyTorch, DeepLearning with Keras & TensorFlow, Neural Networks with Keras, Computer Vision & Image Processing |
-| **Hardware & Tooling** | SolidWorks CAD, AutoDesk Inventor CAD, Linux, Proteus, Schematic & Multi-layer PCB, Docker |
+| **Hardware & Tooling** | SolidWorks CAD, AutoDesk Inventor CAD, Abaqus CAE, Linux, Proteus, Schematic & Multi-layer PCB, Docker |
 
 ---
 
