@@ -1,5 +1,5 @@
 # Hi, I'm Obay Zakzak 👋
-### A Mechatronics Engineer | Specialized in Robotics, Control Theory & Real-Time Autonomous Systems
+### Mechatronics Engineer | Specialized in Robotics, Embedded Systems, Cybersecurity Analysis, Cyber-Physical Systems, Control Theory & Real-Time Autonomous Systems
 
 ---
 
@@ -24,6 +24,7 @@ Rather than building surface-level hobbyist prototypes, my projects emphasize:
 | **Embedded & Firmware** | Embedded C, C++, FreeRTOS, STM32 / ARM Cortex-M4, ESP32, SocketCAN / UART, Embedded Intelligence, Digital Signal Processing (DSP) |
 | **Perception & Edge-AI** | OpenCV, cv_bridge, TinyML / TensorFlow Lite Micro, Spatial Point Projection |
 | **Industry 4.0 AI & Machine Learning** | DeepLearning with PyTorch, DeepLearning with Keras & TensorFlow, Neural Networks with Keras, Computer Vision & Image Processing |
+| **Cybersecurity & Cyber-Physical Systems Analysis** | Cyber Threat Intelligence (CTI), Security Information and Event Management (SIEM), Cyber Operations, Penetration Testing, Offensive & Defensive Python, Cyber Threat Hunting (CTH) |
 | **Hardware & Tooling** | SolidWorks CAD, AutoDesk Inventor CAD, Abaqus CAE, Linux, Proteus, Schematic & Multi-layer PCB, Docker |
 
 ---
